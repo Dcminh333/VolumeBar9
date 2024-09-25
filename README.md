@@ -35,16 +35,25 @@ Screenshots
 -----------
 
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/status+icons.png" alt="status+icons" style="max-width: 49%;"/>
+Feature 1: Updated version of volume slide bar
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/status+customslider.png" alt="status+customslider" style="max-width: 49%;"/>
+Feature 2: Update version custom slide bar.
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/normal+route.png" alt="normal+route" style="max-width: 49%;"/>
+Feature 3: Updated Version of TV slide bar.
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/normal+handle+label+icons.png" alt="normal+handle+label+icons" style="max-width: 49%;"/>
+Feature 4: Updated different version of volume slide bar.
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/normal+dropshadow.png" alt="normal+dropshadow" style="max-width: 49%;"/>
+Feature 5: Different version of slide bar.
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/normal+crazycolors+handle+label.png" alt="normal+crazycolors+handle+label" style="max-width: 49%;"/>
+Feature 6: Updated color settings on slide bar.
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/landscape+status.png" alt="landscape+status" style="max-width: 99%;"/>
+Feature 7: Added image within slide bar.
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/landscape+normal+customslider.png" alt="landscape+normal+customslider" style="max-width: 99%;"/>
+Feature 8: Added image within slide bar and made transparent.
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/banner_settings.png" alt="banner_settings" style="max-width: 49%;"/>
+Feature 9: Example of changing settings to fit color and slider.
 <img src="https://raw.githubusercontent.com/cgm616/VolumeBar9/master/screenshots/animation_settings.png" alt="animation_settings" style="max-width: 49%;"/>
-
+Feature 10: Changing animation setting to the volume slider.
 
 Install
 =======
@@ -52,6 +61,11 @@ Install
 To install on a jailbroken iOS device, add my Cydia repo: [cgm616.me/repo/](https://cgm616.me/repo/). Then install the VolumeBar9 package.
 
 It has a few dependencies: [libcolorpicker](http://git.pixelfiredev.com/pixelfire/libcolorpicker) and [libobjcipc](https://github.com/a1anyip/libobjcipc), which are both most likely installed already on your device.
+
+libcolorpicker provides a customizable color picker UI for iOS 6, allowing users to easily select and customize colors within jailbroken apps and tweaks. Use this to update your colors and transparencies within the device
+
+libobjcipc enables efficient and secure inter-process communication between apps and processes in jailbroken iOS environments. Make sure to have installed to provide with correct tools for the environment. 
+
 
 Alternatively, you can install and setup [theos](https://github.com/theos/theos), clone this repo, and build it and install it on your device with:
 
